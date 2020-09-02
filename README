@@ -1,0 +1,8 @@
+This matlab files include simulation code to determine the parameters for a three-phase trickle bed reactor
+designed for the hydrogenation of anthraquinones to produce hydrogen peroxide. 
+
+To determine the best design, a total cost optimisation script was also created to iterate over multiple scenarios
+and reaction conditions to develop the lowest cost design that is capable of meeting the product specifications. 
+
+For each new scenario, the specifications for the reactor can be easily tweaked. Additional documentation will
+be provided for instructions on how to do so. 
